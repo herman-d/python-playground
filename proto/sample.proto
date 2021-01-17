@@ -1,0 +1,8 @@
+syntax = "proto3";
+
+package playground;
+
+message Sample {
+    string field_one = 1;
+    int32 field_two = 2;
+}
